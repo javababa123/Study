@@ -1,0 +1,210 @@
+Company
+=========
+Whats your responsibility.
+How many orders in a day.
+
+
+
+SQL/PLSQL
+=========
+Stored Procedure vs Function vs Trigger
+Cursor
+Normalization: https://beginnersbook.com/2015/05/normalization-in-dbms/
+ACID Property :https://www.geeksforgeeks.org/acid-properties-in-dbms/
+https://www.journaldev.com/17786/pl-sql-interview-questions-answers
+http://www.complexsql.com/stored-procedure-interview-questions/
+https://www.w3schools.in/mysql/ddl-dml-dcl/
+
+
+Data Structure in C++
+======================
+http://www.geeksforgeeks.org/data-structures/
+
+
+Core Java
+==========
+https://www.journaldev.com/java-interview-questions
+http://javarevisited.blogspot.in/2011/06/comparator-and-comparable-in-java.html
+http://javarevisited.blogspot.in/2011/11/how-to-override-compareto-method-in.html
+Why override hashcode & equals for Sets
+http://www.geeksforgeeks.org/override-equalsobject-hashcode-method/
+https://stackoverflow.com/questions/21974361/what-java-collection-should-i-use/21974362#21974362
+Reflection:
+http://www.geeksforgeeks.org/reflection-in-java/
+http://www.javabykiran.com/interview/corejava/reflection-interview-questions.php
+Why is constant pool maintained only for String values ?
+https://www.journaldev.com/797/what-is-java-string-pool
+http://javarevisited.blogspot.in/2016/07/difference-in-string-pool-between-java6-java7.html
+https://javarevisited.blogspot.in/2011/05/java-heap-space-memory-size-jvm.html
+http://javarevisited.blogspot.in/2010/10/why-string-is-immutable-or-final-in-java.html
+Array : http://javaconceptoftheday.com/java-array-interview-questions-and-answers/
+String : http://javaconceptoftheday.com/java-string-interview-questions-and-answers/
+https://www.journaldev.com/1321/java-string-interview-questions-and-answers
+Overriding HashCode and equals for String and StringBuffer :
+http://www.instanceofjava.com/2015/08/why-stringbufferstringbuilder-not-override-eqlas-method-hashcode-method.html
+http://javarevisited.blogspot.in/2011/10/how-substring-in-java-works.html
+Class & Object : 
+Order in which java object created, static block, main, instance block
+https://www.geeksforgeeks.org/new-operator-vs-newinstance-method-java/
+https://stackoverflow.com/questions/7713274/java-immutable-collections/7713332#7713332
+inheritence: 
+http://www.java67.com/2016/03/top-21-java-inheritance-interview-Questions-Answer-Programming.html
+Abstarction:http://javarevisited.blogspot.in/2013/04/10-abstract-class-and-interface-interview-question-java-answers.html
+Interface: http://javarevisited.blogspot.in/2012/04/10-points-on-interface-in-java-with.html
+Exception : http://javarevisited.blogspot.in/2013/06/10-java-exception-and-error-interview-questions-answers-programming.html
+http://javarevisited.blogspot.in/2011/04/garbage-collection-in-java.html [AGIN-HIGH]
+http://www.baeldung.com/java-memory-management-interview-questions [AGAIN-HIGH]
+http://javarevisited.blogspot.in/2012/03/finalize-method-in-java-tutorial.html [AGAIN-HIGH]
+Collection :http://javarevisited.blogspot.in/2011/11/collection-interview-questions-answers.html [READ AGAIN]
+https://www.journaldev.com/1330/java-collections-interview-questions-and-answers
+http://www.baeldung.com/java-copy-on-write-arraylist [AGAIN-HIGH]
+http://javarevisited.blogspot.in/2012/12/blocking-queue-in-java-example-ArrayBlockingQueue-LinkedBlockingQueue.html
+https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html
+ConcurrentHashMap
+http://javarevisited.blogspot.in/2011/04/difference-between-concurrenthashmap.html [AGAIN]
+http://javarevisited.blogspot.in/2013/02/concurrenthashmap-in-java-example-tutorial-working.html
+https://stackoverflow.com/questions/1463284/hashset-vs-treeset
+https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
+http://infotechgems.blogspot.in/2011/11/java-collections-performance-time.html
+Thread : http://javarevisited.blogspot.in/2014/07/top-50-java-multithreading-interview-questions-answers.html [READ AGAIN]
+https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers
+http://www.java67.com/2012/08/what-are-difference-between-wait-and.html
+http://www.java67.com/2012/08/what-is-thread-and-runnable-in-java.html
+https://www.journaldev.com/1037/java-thread-wait-notify-and-notifyall-example
+https://www.geeksforgeeks.org/callable-future-java/
+https://www.journaldev.com/1069/threadpoolexecutor-java-thread-pool-example-executorservice
+https://www.journaldev.com/1079/multithreading-in-java
+http://javarevisited.blogspot.in/2011/06/volatile-keyword-java-example-tutorial.html
+Generic :http://javarevisited.blogspot.in/2011/09/generics-java-example-tutorial.html[BASIC]
+JDBC : http://javarevisited.blogspot.in/2012/12/top-10-jdbc-interview-questions-answers.html
+http://javarevisited.blogspot.in/2015/10/133-java-interview-questions-answers-from-last-5-years.html
+
+
+Java 8
+------
+https://www.journaldev.com/8697/javase8-interview-questions-part1
+https://www.journaldev.com/10081/javase8-interview-questions-part2
+http://www.javainuse.com/java/java8_intvw
+http://www.baeldung.com/java-8-lambda-expressions-tips
+https://www.journaldev.com/2763/java-8-functional-interfaces
+https://www.baeldung.com/java-8-functional-interfaces
+https://www.geeksforgeeks.org/functional-interfaces-java/
+https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method
+https://www.journaldev.com/2774/java-8-stream
+https://www.journaldev.com/16709/java-optional
+https://www.journaldev.com/13521/java-spliterator
+https://www.geeksforgeeks.org/java-util-interface-spliterator-java8/
+https://www.javatpoint.com/java-8-type-inference
+https://www.javabrahman.com/java-8/java-8-internal-iterators-vs-external-iterators/
+https://www.javabrahman.com/java-8/understanding-java-8-streams-operations-intermediate-and-terminal-operations-tutorial-with-examples/
+https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method
+https://www.journaldev.com/2800/java-8-date-localdate-localdatetime-instant
+http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+
+
+
+
+
+Design Pattern
+==================
+https://www.geeksforgeeks.org/software-design-patterns/
+Creational:
+Singleton design pattern 
+factory pattern
+Abstract Factory pattern
+Prototype Pattern
+
+
+Behaviour Pattern:
+Observer design pattern
+Template Method Pattern
+State Pattern
+
+Structural :
+Adapter design pattern
+Proxy Pattern
+Composite design pattern.
+
+Builder design pattern:
+MVC design pattern[AGAIN] 
+Front Controller Pattern
+Data Access Object Pattern
+
+
+Hibernate 3.5[Mar 2010] 
+==========
+Mapping
+Why ORM?
+http://www.java67.com/2016/02/top-20-hibernate-interview-questions.html
+http://javarevisited.blogspot.in/2013/05/10-hibernate-interview-questions-answers-java-j2ee-senior.html
+https://www.journaldev.com/2969/hibernate-caching-first-level-cache
+https://www.journaldev.com/2980/hibernate-ehcache-hibernate-second-level-cache
+http://www.baeldung.com/hibernate-second-level-cache
+https://www.journaldev.com/3481/hibernate-session-merge-vs-update-save-saveorupdate-persist-example [AGAIN]
+What is lazy loading and how do you achieve that in hibernate?
+https://www.journaldev.com/3633/hibernate-interview-questions-and-answers [AGAIN]
+
+
+
+Spring [4.2.0] TutorialsPoint
+===========
+Spring 3v vs 4v
+Spring Transaction with Hibernate
+https://www.journaldev.com/16922/spring-framework
+IoC vs DI : https://www.codeproject.com/Articles/592372/Dependency-Injection-DI-vs-Inversion-of-Control-IO
+https://www.tutorialspoint.com/spring/index.htm
+https://www.journaldev.com/2696/spring-interview-questions-and-answers
+https://www.baeldung.com/spring-interview-questions
+
+
+SpringBoot:
+http://www.springboottutorial.com/spring-boot-interview-questions
+http://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html
+https://javarevisited.blogspot.com/2018/02/top-20-spring-rest-interview-questions-answers-java.html
+
+
+JavaScript
+============
+OOPL vs OBPL
+http://javahonk.com/difference-between-object-oriented-object-based-programming-language/
+What is JavaScript Closure?[AGAIN]
+https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
+https://career.guru99.com/top-85-javascript-interview-questions/
+https://stackoverflow.com/questions/7310109/whats-the-difference-between-and-in-javascript
+
+React Js
+===========
+https://www.wisdomjobs.com/e-university/reactjs-interview-questions.html
+https://www.onlineinterviewquestions.com/react-js-interview-questions/#.WuniH6SFPIU
+https://www.toptal.com/react/interview-questions
+https://www.quora.com/How-do-I-prepare-for-ReactJS-technical-interview
+https://www.edureka.co/blog/interview-questions/react-interview-questions/
+
+
+Microservices
+==============
+https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
+
+
+Servlet:
+========
+Application Server vs Web Server
+SLF4J vs Log4j
+http://www.journaldev.com/2015/servlet-interview-questions-and-answers
+http://www.careerride.com/Interview-Questions-Java-Servlets.aspx
+https://beginnersbook.com/2013/12/difference-between-include-directive-and-include-tag-in-jsp/
+
+
+
+Ajax:
+======
+http://www.web-technology-experts-notes.in/2015/03/ajax-interview-questions-and-answers-for-experienced.html
+https://www.javatpoint.com/ajax-interview-questions
+
+
+Jsf 2.0 [01-07-2009] Javatpoints
+======================
+https://javabeat.net/jsf-interview-questions/
+http://www.developersbook.com/jsf/interview-questions/jsf-interview-questions-faqs.php
